@@ -2,7 +2,7 @@
 <record_update table="sys_ui_view">
     <sys_ui_view action="INSERT_OR_UPDATE">
         <group/>
-        <hidden>false</hidden>
+        <hidden>true</hidden>
         <name>User</name>
         <roles/>
         <sys_class_name>sys_ui_view</sys_class_name>
